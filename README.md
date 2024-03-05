@@ -1,7 +1,7 @@
 Hi, I’m Waleed Hassan.
 
-- 👀 I’m interested in AI, web 3.0, and the Metaverse.
 - 🌱 I’m currently enrolled in the GIAIC course, deepening my knowledge in AI while exploring the exciting realms of web 3.0 and the Metaverse.
+- 👀 I’m interested in AI, web 3.0, and the Metaverse.
 - 📫 Connect with me via email at waleedkhokhar03@gmail.com or on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/-03-waleedhassan/).
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I'm passionate advocate for incorporating emerging technologies into everyday life.
